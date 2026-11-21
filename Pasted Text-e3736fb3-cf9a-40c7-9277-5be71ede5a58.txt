@@ -1,0 +1,24 @@
+Since what you know about Foundersaleshub
+
+We're updating foundersaleshub website and we're at the about me section.
+
+I want you to use the most advanced reasoning to craft the about me on the page(my ai editor will understand you can write it in html but don't over design)
+I want the copy here to talk about how we treat launch and startup content. Startup content are treated with an expertise of speciality that requires launchnto speak louder, we invite you for an interview by understanding your product
+We treat startup content like a science. Launch that are loud enough
+Piece all these together
+
+Verify that the google and signup and sign in work on Aura Calendar
+
+And have a little onboarding there nice obnoarding asking details about their product like a 10k/m mrr app onboarding.
+
+And it would then display a nice dashboard on the left and dashboard stays or leaves (depending on click able button ) make it like side dashboard. [Today's Content, Competitor Insight, Research(golden badge), Meet Aura(new badge on this] then each click of the dashboard is shown
+
+I want the profile button (that circle type) to be at the the overall dashboard after login into Aura Calendar and they should a little get mail notifications approval and work on this so they can get Aura calendar to be sending them updates and newsletter
+
+The Aura calendar should dashboard (inside the main Aura calendar after clicking) there should be explore competitor button there. All button should be nicely displayed and not distracting and looks edible. Make sure the dark mode of aura has enough contrast and nicely shown
+
+Here are the features of aura Calendar " after onboarding, take them to Competitor insight" and this place use the collected details during onboarding like "website or product link"  you asked now research their competitors on X and LinkedIn and The website and Instagram and they'll see that content they should be creating and explore more at Aura should be the link ending this dashboard linking to Aura  i want you to replicate the strategy used in cut-noodles.com where they are in the center and they can see bubbles of profile surrounding them, that are like them. To explore the content type the person is creating or Competitor is creating they would have to subscribe to Aura or use a discount code. More products are coming and you can add this to the side of the dashboard too)
+
+The aura calendar should be locked for free users
+
+Community(coming soon) should be the cta of Foundersaleshub homepage and Meet Aura button
